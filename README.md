@@ -23,22 +23,22 @@ We've provided you with a console that you can use to test your code. To enter a
 
 #### Build the following methods on the `Restaurant` class
 
-+ `Restaurant.all`
-  + Returns all `Restaurant` instances 
-+ `Restaurant#locations`
-  + Returns an array of all `Locations`s of this particular `Restaurant` instance 
-+ `Restaurant#total_rent`
-  + Returns the total amount this `Restaurant` pays for all of its `Location`s 
-+ `Resturant#create_location`
-  + Creats a new `Location` instance for this particular `Restuarant`
+- [ ] `Restaurant.all`
+  - [ ] Returns all `Restaurant` instances 
+- [ ] `Restaurant#locations`
+  - [ ] Returns an array of all `Locations`s of this particular `Restaurant` instance 
+- [ ] `Restaurant#total_rent`
+  - [ ] Returns the total amount this `Restaurant` pays for all of its `Location`s 
+- [ ] `Resturant#create_location`
+  - [ ] Creats a new `Location` instance for this particular `Restuarant`
 
 
 #### Build out the following methods on the `Location` class
 
-+ `Location.all`
-  + Returns an array of all `Location` instances, irrespective of the `Restaurant` each `Location` belongs to
-+ `Location.all_addresses`
-  + Returns an array of the address of all `Location` instances.
+- [ ] `Location.all`
+  - [ ] Returns an array of all `Location` instances, irrespective of the `Restaurant` each `Location` belongs to
+- [ ] `Location.all_addresses`
+  - [ ] Returns an array of the address of all `Location` instances.
 
 
 ## SUPER BONUS MODE ##
@@ -47,21 +47,21 @@ Add a third class into the mix: an Employee.  Each location can have many employ
 
 ### Build out the following methods on the `Employee` class
 
-+ `Employee.all`
-  + Returns an array of each `Employee` instance, irrespective of which `Restaurant` they work for
-+ `Employee.average_pay`
-  + Returns the average pay of all employees, irrespective of which `Restaurant` they work for
+- [ ] `Employee.all`
+  - [ ] Returns an array of each `Employee` instance, irrespective of which `Restaurant` they work for
+- [ ] `Employee.average_pay`
+  - [ ] Returns the average pay of all employees, irrespective of which `Restaurant` they work for
 
-### Build out the following methods on the `Restaurant` class 
+### Build out the following methods on the `Restaurant` class
 
-+ `Restaurant#employees`
-  + Returns an array of each `Employee` instance that works for this `Restaurant`
-+ `Restaurant#total_pay`
-  + Returns the total amount this `Restaurant` pays out to all of its employees
-+ `Restaurant#total_expenes
-  + Returns the total amount this `Restaurant` pays out to all of its employees AND in rent 
+- [ ] `Restaurant#employees`
+  - [ ] Returns an array of each `Employee` instance that works for this `Restaurant`
+- [ ] `Restaurant#total_pay`
+  - [ ] Returns the total amount this `Restaurant` pays out to all of its employees
+- [ ] `Restaurant#total_expenes
+  - [ ] Returns the total amount this `Restaurant` pays out to all of its employees AND in rent 
 
-### Build out the following methods on the `Location` class 
+### Build out the following methods on the `Location` class
 
-+ `Location#hire_employee`
-  + Creates a new `Employee` instance for this `Location`
+- [ ] `Location#hire_employee`
+  - [ ] Creates a new `Employee` instance for this `Location`
